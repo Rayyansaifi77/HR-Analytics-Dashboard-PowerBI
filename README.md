@@ -32,4 +32,4 @@ This dashboard provides actionable insights into employee attrition and workforc
 
 ## Author
 Rayyan Saifi
-BCA Student | Data Analytics Enthusiast
+BCA Student |
